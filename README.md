@@ -12,8 +12,8 @@ This project focuses on overcoming two main challenges in implementing an automa
 
 To address these challenges, we propose a hair removal algorithm and a vein enhancement algorithm to improve the visibility of veins by removing hair and contrast the veins w.r.t the background respectively. 
 
-- [Hair Removal Algorithm](link_to_algorithm1.py) 
-- [Vein Enhancement Algorithm](link_to_algorithm2.py)
+- [Hair Removal Algorithm](Hair_Removal_Algorithm.ipynb) 
+- [Vein Enhancement Algorithm](Vein_Enhancement_Algorithm.ipynb)
 
 ## Usage
 
