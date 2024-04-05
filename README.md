@@ -1,6 +1,8 @@
 # Enhancing Automated Vein Cannulation: Algorithms for Improved Accuracy and Efficiency
 
-This project focuses on overcoming two main challenges in implementing such a automated vein cannulation system: hair obscuring vein visibility and enhancing vein detection in grayscale NIR images. Proposed solutions include a hair removal algorithm and a vein enhancement algorithm.
+This project focuses on overcoming two main challenges in implementing an automated vein cannulation system: 
+1. Hair obscuring vein visibility and enhancing vein detection in grayscale NIR images. 
+2. Enhancing the visibility of the veins in the grayscale images.
 
 ## Table of Contents
 - [Algorithms](#algorithms)
@@ -8,11 +10,11 @@ This project focuses on overcoming two main challenges in implementing such a au
 
 ## Algorithms
 
-Briefly introduce the algorithms you've implemented. Mention their purposes and how they work. Provide links to the files where the algorithms are implemented.
+To address these challenges, we propose a hair removal algorithm and a vein enhancement algorithm to improve the visibility of veins by removing hair and contrast the veins w.r.t the background respectively. 
 
-- [Algorithm 1](link_to_algorithm1.py) - Description of Algorithm 1.
-- [Algorithm 2](link_to_algorithm2.py) - Description of Algorithm 2.
+- [Hair Removal Algorithm](link_to_algorithm1.py) 
+- [Vein Enhancement Algorithm](link_to_algorithm2.py)
 
 ## Usage
 
-Explain how users can use your project. Provide instructions on how to install any dependencies and how to run the algorithms.
+Download the colab notebooks and run the code for your custom datasets. 
